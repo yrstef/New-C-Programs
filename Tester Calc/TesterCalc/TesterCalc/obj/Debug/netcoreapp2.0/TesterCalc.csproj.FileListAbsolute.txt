@@ -1,0 +1,6 @@
+/Volumes/USB30FD/[0] DCI Resources/C#/Stefane's Code/Tester Calc/TesterCalc/TesterCalc/obj/Debug/netcoreapp2.0/TesterCalc.csprojResolveAssemblyReference.cache
+/Volumes/USB30FD/[0] DCI Resources/C#/Stefane's Code/Tester Calc/TesterCalc/TesterCalc/obj/Debug/netcoreapp2.0/TesterCalc.csproj.CoreCompileInputs.cache
+/Volumes/USB30FD/[0] DCI Resources/C#/Stefane's Code/Tester Calc/TesterCalc/TesterCalc/obj/Debug/netcoreapp2.0/TesterCalc.AssemblyInfoInputs.cache
+/Volumes/USB30FD/[0] DCI Resources/C#/Stefane's Code/Tester Calc/TesterCalc/TesterCalc/obj/Debug/netcoreapp2.0/TesterCalc.AssemblyInfo.cs
+/Volumes/USB30FD/[0] DCI Resources/C#/Stefane's Code/Tester Calc/TesterCalc/TesterCalc/obj/Debug/netcoreapp2.0/TesterCalc.dll
+/Volumes/USB30FD/[0] DCI Resources/C#/Stefane's Code/Tester Calc/TesterCalc/TesterCalc/obj/Debug/netcoreapp2.0/TesterCalc.pdb
